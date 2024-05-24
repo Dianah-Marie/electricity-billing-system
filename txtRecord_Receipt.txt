@@ -1,0 +1,149 @@
+ ,,
+ 12312,jhofer,
+
+Sat Mar 30 16:58:10 CST 2024
+--------------------------------------
+|    Electricity Billing System    |
+--------------------------------------
+ID:12312
+Name: jhofer
+Unit Consumed/kWh: ₱123
+Charge per kWh: ₱9.0
+Total Amount: = ₱1107.0
+Transaction Succesful!
+ 12312,jhofer,
+
+Sat Mar 30 16:58:10 CST 2024
+--------------------------------------
+|    Electricity Billing System    |
+--------------------------------------
+ID:12312
+Name: jhofer
+Unit Consumed/kWh: ₱123
+Charge per kWh: ₱9.0
+Total Amount: = ₱1107.0
+Transaction Succesful!
+ 1234,justin,
+
+Sat Mar 30 17:15:47 CST 2024
+--------------------------------------
+|    Electricity Billing System    |
+--------------------------------------
+ID:1234
+Name: justin
+Unit Consumed/kWh: ₱100
+Charge per kWh: ₱7.5
+Total Amount: = ₱750.0
+Transaction Succesful!
+
+Sat Mar 30 17:15:47 CST 2024
+--------------------------------------
+|    Electricity Billing System    |
+--------------------------------------
+ID:1234
+Name: justin
+Unit Consumed/kWh: ₱100
+Charge per kWh: ₱7.5
+Total Amount: = ₱750.0
+Transaction Succesful!
+ 123,JHOFER,
+
+Sun Mar 31 01:22:19 CST 2024
+--------------------------------------
+|    Electricity Billing System    |
+--------------------------------------
+ID:123
+Name: JHOFER
+Unit Consumed/kWh: ₱123
+Charge per kWh: ₱9.0
+Total Amount: = ₱1107.0
+Transaction Succesful!
+--------------------------------------
+
+ ,,
+ ,,
+ 123,BAg o ni,
+
+Sun Mar 31 20:48:06 CST 2024
+--------------------------------------
+|    Electricity Billing System    |
+--------------------------------------
+ID:123
+Name: BAg o ni
+Unit Consumed/kWh: ₱33
+Charge per kWh: ₱7.5
+Total Amount: = ₱247.5
+Transaction Succesful!
+--------------------------------------
+
+ 555,gggg,
+
+Sun Mar 31 23:10:39 PST 2024
+--------------------------------------
+|    Electricity Billing System    |
+--------------------------------------
+ID:555
+Name: gggg
+Unit Consumed/kWh: ₱556
+Charge per kWh: ₱11.0
+Total Amount: = ₱6116.0
+Transaction Succesful!
+--------------------------------------
+
+ 67676,Dianah,
+
+Sun Mar 31 23:22:26 PST 2024
+--------------------------------------
+|    Electricity Billing System    |
+--------------------------------------
+ID:67676
+Name: Dianah
+Unit Consumed/kWh: ₱9989
+Charge per kWh: ₱11.0
+Total Amount: = ₱109879.0
+Transaction Succesful!
+--------------------------------------
+
+ ,,
+ 90909,jjkjk,
+
+Sun Mar 31 23:46:24 SGT 2024
+--------------------------------------
+|    Electricity Billing System    |
+--------------------------------------
+ID:90909
+Name: jjkjk
+Unit Consumed/kWh: ₱90
+Charge per kWh: ₱7.5
+Total Amount: = ₱675.0
+Transaction Succesful!
+--------------------------------------
+
+ 11,,
+
+Mon May 06 10:25:47 CST 2024
+--------------------------------------
+|    Electricity Billing System    |
+--------------------------------------
+ID:11
+Name: Mel Adry Olivo
+Unit Consumed/kWh: ₱123
+Charge per kWh: ₱9.0
+Total Amount: = ₱1107.0
+Transaction Succesful!
+--------------------------------------
+
+ 11,,
+
+Mon May 06 10:25:47 CST 2024
+--------------------------------------
+|    Electricity Billing System    |
+--------------------------------------
+ID:11
+Name: Mel Adry Olivo
+Unit Consumed/kWh: ₱123
+Charge per kWh: ₱9.0
+Total Amount: = ₱1107.0
+Transaction Succesful!
+--------------------------------------
+
